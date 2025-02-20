@@ -1,4 +1,4 @@
 # Task-Tracker
-Projeto Iniciante em Python, feito a partir de um modelo de requisão de projeto da comunidade roadmap.sh.
-O projeto e seus requerimentos originais podem ser encontrados aqui: https://roadmap.sh/projects/task-tracker
-O Task Tacker é um programa que está em constante mudança e aprimoração para que eu possa evoluir meus conhecimentos na área.
+Beginner project in Python created based on a model request from the roadmap.sh community.
+The original requirements for this project can be found at: https://roadmap.sh/projects/task-tracker.
+The Task Tracker is a work in progress, continuously updated to improve my programming skills and proficiency in Python.
